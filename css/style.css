@@ -2395,7 +2395,7 @@ ul {
 /**************** banner part css start ****************/
 /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_banner.scss */
 .banner_part {
-  height: 1075px;
+  height: 800px;
   position: relative;
   background-image: url(../img/banner_bg_1.png);
   background-repeat: no-repeat;
@@ -2405,7 +2405,7 @@ ul {
   background-color: #0d0f5b;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1075px) {
   /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_banner.scss */
   .banner_part {
     height: 650px;
